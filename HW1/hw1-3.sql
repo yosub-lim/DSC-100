@@ -1,0 +1,10 @@
+INSERT INTO Albums VALUES (1, 'Imagine', '1971-09-09', 1);
+INSERT INTO Albums VALUES (2, 'The Wall', '1979-11-30', 2);
+INSERT INTO Albums VALUES (3, 'Exodus', '1977-06-03', 3);
+INSERT INTO Albums VALUES (4, 'Unplugged', '1992-08-25', 4);
+INSERT INTO Albums VALUES (5, 'Live at the Regal', '1965-11-21', 5);
+INSERT INTO Albums VALUES (6, 'Sweet Tea', '2001-05-15', 6);
+INSERT INTO Albums VALUES (7, 'Electric Ladyland', '1968-10-16', 7);
+INSERT INTO Albums VALUES (8, 'Double Fantasy', '1980-11-17', 1);
+INSERT INTO Albums VALUES (9, 'Legend', '1984-05-08', 3);
+INSERT INTO Albums VALUES (10, 'Midnight Blues', '2002-02-11', 5);
